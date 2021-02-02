@@ -6,6 +6,6 @@ queries:
 paths-ignore:
   - '/cpp/'
   - '/java/'
-  - '/python/'
+  - '/csharp/'
   - '/javascript/ql/test'
   - '/javascript/extractor/tests'
